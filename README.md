@@ -22,7 +22,7 @@ The study explores how artificial intelligence can be used to analyze and recons
 
 ## Paper
 You can read the full paper here:
-👉 [ResearchGate Link](BURAYA SENİN LİNK)
+👉 https://www.researchgate.net/publication/404227362_Amayesir_Dilinin_Yapay_Zeka_Destekli_Cozumlenmesi
 
 ## Author
 Kaan Salih Karsak
